@@ -1,7 +1,0 @@
-pandas
-numpy
-splinter
-matplotlib
-selenium
-bs4
-tqdm
